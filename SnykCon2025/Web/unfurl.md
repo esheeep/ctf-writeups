@@ -1,7 +1,7 @@
 # Unfurl
 ![CleanShot 2025-03-02 at 14 02 48@2x](https://github.com/user-attachments/assets/3b387793-c253-4f56-9e84-19f7a66d43f5)
 
-Attachment: [unfurl.zip](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/unfurl.zip)
+Attachment: [unfurl.zip](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/unfurl.zip)
 
 ## Writeup
 Unfurl is a web app that takes a url and returns the metadata for that url.
