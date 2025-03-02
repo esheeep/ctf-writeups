@@ -1,6 +1,6 @@
 # Zero Ex Six One
 ![CleanShot 2025-03-02 at 21 48 00@2x](https://github.com/user-attachments/assets/783c54a2-0646-4abe-bfb1-2f396a479e9f)
-Attachment: [flag.txt.encry](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/encry)
+Attachment: [flag.txt.encry](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/encry)
 
 # Writeup
 Challenge gives the file with hex string:
