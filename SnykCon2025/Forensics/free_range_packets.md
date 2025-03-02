@@ -1,7 +1,7 @@
 # Free range packets
 ![CleanShot 2025-03-02 at 22 06 20@2x](https://github.com/user-attachments/assets/5dc8fc2e-78f4-40d9-9546-d77904de00d2)
 
-Attachment: [freeRangePackets.pcapng](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/freeRangePackets.pcapng)
+Attachment: [freeRangePackets.pcapng](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/freeRangePackets.pcapng)
 
 # Writeup
 There are bluetooth packets sending and receiving. Looking at Bluetooth L2CAP Protocol in wireshark it has a hexadecimal payload.
