@@ -1,6 +1,6 @@
 # A powerful shell
 ![CleanShot 2025-03-02 at 23 39 59@2x](https://github.com/user-attachments/assets/bf625b3a-face-41c7-9afb-e3c626e7192e)
-Attachment: [challenge.ps1](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/challenge.ps1)
+Attachment: [challenge.ps1](https://github.com/esheeep/ctf-writeups/main/SnykCon2025/Attachments/challenge.ps1)
 
 # Writeup
 The given file has a base64 string. Using cyberchef the string can be decoded to:
