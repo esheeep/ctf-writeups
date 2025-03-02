@@ -1,6 +1,6 @@
 # Plantly
 ![CleanShot 2025-03-02 at 15 20 06@2x](https://github.com/user-attachments/assets/47805e8b-9659-46a4-83ea-43c686b5352c)
-Attachment: [plantly.zip](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/plantly.zip)
+Attachment: [plantly.zip](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/plantly.zip)
 
 ## Writeup
 Plantly is a shop with features like add to cart, subcription, sign in and etc. What stand out is a feature to "Add Custom Order to Cart":
