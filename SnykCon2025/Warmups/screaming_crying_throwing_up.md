@@ -1,6 +1,6 @@
 # Screaming Crying Throwing Up
 ![CleanShot 2025-03-02 at 21 30 17@2x](https://github.com/user-attachments/assets/f4f26f6e-f663-4423-a7aa-30f7e1cd7288)
-Attachment: [screaming.bin](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/screaming.bin)
+Attachment: [screaming.bin](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/screaming.bin)
 
 ## Writeup
 Opening the bin file it contains cipher text. Base the challenge information the text is possibly xkcd cipher.
