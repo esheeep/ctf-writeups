@@ -1,7 +1,7 @@
 # Weblog
 ![CleanShot 2025-03-03 at 00 52 20@2x](https://github.com/user-attachments/assets/c9337df4-127e-43a9-b842-ebe119b00171)
 
-Attachment: [weblog.zip](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/webloag.zip)
+Attachment: [weblog.zip](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/webloag.zip)
 
 ## Writeup
 Challenge is a blog and you need to register an account to login to view blogs. <br>
