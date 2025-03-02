@@ -1,7 +1,7 @@
 # TimeOff
 ![CleanShot 2025-03-02 at 14 47 48@2x](https://github.com/user-attachments/assets/5c2a2de5-7835-4b73-be03-0b901023f5a6)
 
-Attachment: [timeoff.zip](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/timeoff.zip)
+Attachment: [timeoff.zip](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/timeoff.zip)
 
 ## Writeup
 The web app allows users and admin to request time off. When creating a "New Time Off Request" a file can be uploaded.
