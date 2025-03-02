@@ -1,6 +1,6 @@
 # Math for me
 ![CleanShot 2025-03-01 at 23 14 44@2x](https://github.com/user-attachments/assets/6f345fd3-47a2-42d4-9836-6bd7b79a8abe)
-Attachment: [math4me](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/math4me)
+Attachment: [math4me](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/math4me)
 
 ## Writeups
 The binary expects a special number: <br>
