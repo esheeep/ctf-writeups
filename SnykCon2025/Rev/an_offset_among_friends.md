@@ -1,7 +1,7 @@
 # An Offset Amongst Friends
 ![CleanShot 2025-03-01 at 22 05 33](https://github.com/user-attachments/assets/cd716b40-d48f-4fa1-8b7f-b3194bab872f)
 
-Attachment: [an-offset](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/an-offset)
+Attachment: [an-offset](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/an-offset)
 
 ## Writeup
 Executing the binary, it asks for the password: <br>
