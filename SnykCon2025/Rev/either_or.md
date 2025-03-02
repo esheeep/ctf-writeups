@@ -1,7 +1,7 @@
 # Either Or
 ![CleanShot 2025-03-01 at 22 42 01@2x](https://github.com/user-attachments/assets/57f2e8cf-2812-4010-bcbe-e60e452d5323)
 
-Attachment: [either-or](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/either-or)
+Attachment: [either-or](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/either-or)
 
 ## Writeup
 Executing the binary it's expecting a secret word: <br>
