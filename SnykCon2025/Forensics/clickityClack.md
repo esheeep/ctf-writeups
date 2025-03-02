@@ -1,6 +1,6 @@
 # ClickityClack
 ![CleanShot 2025-03-02 at 23 08 12@2x](https://github.com/user-attachments/assets/f7ff451b-fc5b-4c10-8cdb-b5e25d926aaf)
-Attachment: [click.pcapng](https://github.com/esheeep/ctf-writeups/edit/main/SnykCon2025/Attachments/click.pcapng)
+Attachment: [click.pcapng](https://github.com/esheeep/ctf-writeups/blob/main/SnykCon2025/Attachments/click.pcapng)
 
 ## Writeup
 The files contain packets capture from a USB transfer. There are packets with HID data which are bytes from a device interacting with the computer. <br>
