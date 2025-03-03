@@ -41,7 +41,7 @@ This part is vulnerable to command injection, injecting a simple payload like ca
 
 In that case the payload should just append the existing command to get the flag. 
 ```
-echo 'Rebuilding database...' && /entrypoint.sh
+echo 'Rebuilding database...' && /entrypoint.sh; cat flag.txt
 ```
 
 ![CleanShot 2025-03-03 at 00 51 45](https://github.com/user-attachments/assets/c764f38d-f7b9-4f40-8b2a-4078834f6ee9) <br>
